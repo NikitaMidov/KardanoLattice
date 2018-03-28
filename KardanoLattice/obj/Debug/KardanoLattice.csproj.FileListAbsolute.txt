@@ -1,0 +1,7 @@
+C:\Users\Nikita\source\repos\KardanoLattice\KardanoLattice\bin\Debug\KardanoLattice.exe.config
+C:\Users\Nikita\source\repos\KardanoLattice\KardanoLattice\bin\Debug\KardanoLattice.exe
+C:\Users\Nikita\source\repos\KardanoLattice\KardanoLattice\bin\Debug\KardanoLattice.pdb
+C:\Users\Nikita\source\repos\KardanoLattice\KardanoLattice\obj\Debug\KardanoLattice.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\source\repos\KardanoLattice\KardanoLattice\obj\Debug\KardanoLattice.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\KardanoLattice\KardanoLattice\obj\Debug\KardanoLattice.exe
+C:\Users\Nikita\source\repos\KardanoLattice\KardanoLattice\obj\Debug\KardanoLattice.pdb
