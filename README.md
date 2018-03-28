@@ -1,1 +1,2 @@
-# KardanoLattice Lelya faggot
+# KardanoLattice codemonkey version 
+
